@@ -1,0 +1,11 @@
+scipy
+tensorboard
+pymilvus
+torch
+recnn
+tqdm
+torch_optimizer
+matplotlib
+jupyterthemes
+pandas
+scikit_learn
